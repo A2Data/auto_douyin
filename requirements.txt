@@ -1,0 +1,5 @@
+playwright==1.52.0
+loguru==0.7.3
+Pillow==11.2.1
+asyncio-mqtt
+aiofiles==24.1.0 

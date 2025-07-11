@@ -1,0 +1,6 @@
+{
+  "chrome_path": "你的浏览器地址，获取方式 在浏览器地址栏输入： chrome://version/  ",
+  "cookies_dir": "./cookies",
+  "logs_dir": "./logs",
+  "videos_dir": "./videos"
+} 

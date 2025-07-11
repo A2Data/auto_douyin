@@ -1,0 +1,24 @@
+{
+  "video_list": [
+    {
+      "video_path": "./videos/video1.mp4",
+      "title": "第一个视频标题",
+      "tags": ["科技", "数码", "教程"],
+      "thumbnail_path": "./videos/video1.png"
+    },
+    {
+      "video_path": "./videos/video2.mp4", 
+      "title": "第二个视频标题",
+      "tags": ["学习", "分享"],
+      "thumbnail_path": "./videos/video2.jpg"
+    },
+    {
+      "video_path": "./videos/video3.mp4",
+      "title": "第三个视频标题", 
+      "tags": ["生活", "日常"]
+    }
+  ],
+  "videos_per_day": 2,
+  "daily_times": [9, 15, 21],
+  "start_days": 0
+} 
