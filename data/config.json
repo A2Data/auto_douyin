@@ -1,0 +1,6 @@
+{
+  "chrome_path": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "cookies_dir": "./cookies",
+  "logs_dir": "./logs",
+  "videos_dir": "./videos"
+}
