@@ -1,0 +1,23 @@
+# Git attributes for proper language detection
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.md linguist-documentation
+*.json linguist-data
+
+# Line ending settings
+* text=auto
+*.py text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
