@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/auto_mcp_server.iml" filepath="$PROJECT_DIR$/.idea/auto_mcp_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/auto_douyin.iml" filepath="$PROJECT_DIR$/.idea/auto_douyin.iml" />
     </modules>
   </component>
 </project>

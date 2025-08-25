@@ -126,6 +126,7 @@ img.png
 
 # AI 助手配置文件
 .CLAUDE.md
+.claude/
 
 # 系统文件
 .DS_Store
